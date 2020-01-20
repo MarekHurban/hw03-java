@@ -1,0 +1,16 @@
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/tools/FileToolsTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/TestUtils.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/comparators/PathComparatorTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/actions/FilterActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/comparators/SortFactoryTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/filters/MinSizeFilterActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/comparators/FileNameComparatorTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/filters/FileContentFilterActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/tools/OptionParserTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/filters/MaxSizeFilterActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/filters/FileNameFilterActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/FSWalkResultTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/comparators/FileSizeComparatorTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/comparators/FileExtensionComparatorTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/impl/actions/SortActionTest.java
+/home/marek/bla/9/2019-hw03-find/src/test/java/cz/muni/fi/pb162/find/tools/ApplicationOptionsTest.java

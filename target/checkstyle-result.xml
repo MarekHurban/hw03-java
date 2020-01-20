@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filters/BasicFilter.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/exceptions/SimpleSearchException.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/comparators/BasicComparator.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/ApplicationOptionsImpl.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/tools/FileTools.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/tools/OptionParserImpl.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/tools/OptionParser.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/tools/SortFactory.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/SearchEntry.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/FileEntry.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/FSWalkResult.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/filesystem/DirEntry.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/ApplicationOptions.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/filters/FileContentFilter.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/filters/MinSizeFilter.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/filters/MaxSizeFilter.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/filters/FileNameFilter.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/comparators/FileExtensionComparator.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/comparators/FileSizeComparator.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/comparators/FileNameComparator.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/comparators/FilePathComparator.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/FSWalkResultImpl.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/actions/SortActionImpl.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/impl/actions/FilterActionImpl.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/Application.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/actions/SortAction.java">
+</file>
+<file name="/home/marek/bla/9/2019-hw03-find/src/main/java/cz/muni/fi/pb162/find/actions/FilterAction.java">
+</file>
+</checkstyle>
